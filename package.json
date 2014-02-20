@@ -1,0 +1,10 @@
+{
+  "name": "yyolk-random-palette-color",
+  "description": "Return a random color from palette",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "enricomarino-palette": "git://github.com/npmcomponent/enricomarino-palette.git"
+  },
+  "license": "MIT"
+}

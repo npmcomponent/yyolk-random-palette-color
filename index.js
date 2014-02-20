@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var Palette = require('palette');
+var Palette = require('enricomarino-palette');
 
 /**
  * Expose `RandomColor`.
